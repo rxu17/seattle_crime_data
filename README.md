@@ -1,4 +1,11 @@
 # seattle_crime_data
+### UW Datathon 2020 Investigation (1st place for Data Visualization)
+
+### Goal
+#### To investigate the seattle crime dataset and produce a useful viz dashboard that will highlight statistics and help inform decisions for crime data in seattle neigborhoods (crimes with weapons, top least crime neighborhoods and number of schools in those, heatmap of severity for each category of crime) for families with kids
+
+### Tools Used:
+#### R, Power BI
 
 ### Seattle crime dataset:
 #### https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5/data
