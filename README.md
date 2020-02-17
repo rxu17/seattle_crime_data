@@ -17,8 +17,7 @@
 #### https://data.seattle.gov/Land-Base/Police-Beat-and-Precinct-Centerpoints/4khs-fz35
 
 ### Severity ranking dataset source:
-#### We produced general severity rankings for crime categories as seen on our dashboard, leaning towards giving high rankings
-#### to crimes associated with children due to our target demographic
+#### We produced general severity rankings for crime categories as seen on our dashboard, leaning towards giving high rankings to crimes associated with children due to our target demographic
 #### https://www.cfc.wa.gov/PublicationSentencing/SentencingManual/Adult_Sentencing_Manual_1992.pdf
 #### https://pap.georgia.gov/sites/pap.georgia.gov/files/CSL-s_Post_1-1-2006_considerations.pdf
 
