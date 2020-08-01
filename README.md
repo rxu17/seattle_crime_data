@@ -2,7 +2,7 @@
 ### UW Datathon 2020 Investigation (1st place for Data Visualization)
 
 ### Goal
-#### To investigate the seattle crime dataset and produce a useful viz dashboard that will highlight statistics and help inform decisions for crime data in seattle neigborhoods (crimes with weapons, top least crime neighborhoods and number of schools in those, heatmap of severity for each category of crime) for families with kids
+#### To investigate the seattle crime dataset (see link below) and produce a useful viz dashboard that will highlight statistics and help inform decisions for crime data in seattle neigborhoods (crimes with weapons, top least crime neighborhoods and number of schools in those) through a heatmap of severity for each category of crime for families with kids
 
 ### Tools Used:
 #### R, Power BI
@@ -10,16 +10,18 @@
 ### Team members:
 #### rxu17, yayinc, yiranl3
 
-### Seattle crime dataset:
-#### https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5/data
+### Data Sources + Descriptions:
 
-### Seattle police beats:
-#### https://data.seattle.gov/Land-Base/Police-Beat-and-Precinct-Centerpoints/4khs-fz35
+## Seattle crime dataset:
+## https://data.seattle.gov/Public-Safety/Crime-Data/4fs7-3vj5/data
 
-### Severity ranking dataset source:
-#### We produced general severity rankings for crime categories as seen on our dashboard, leaning towards giving high rankings to crimes associated with children due to our target demographic
-#### https://www.cfc.wa.gov/PublicationSentencing/SentencingManual/Adult_Sentencing_Manual_1992.pdf
-#### https://pap.georgia.gov/sites/pap.georgia.gov/files/CSL-s_Post_1-1-2006_considerations.pdf
+## Seattle police beats dataset (Linking police beats to latitude and longitude data the dashboard can utilize):
+## https://data.seattle.gov/Land-Base/Police-Beat-and-Precinct-Centerpoints/4khs-fz35
+
+## Severity ranking dataset source:
+## We produced general severity rankings for crime categories as seen on our dashboard, leaning towards giving high rankings to crimes associated with children due to our target demographic.
+## https://www.cfc.wa.gov/PublicationSentencing/SentencingManual/Adult_Sentencing_Manual_1992.pdf
+## https://pap.georgia.gov/sites/pap.georgia.gov/files/CSL-s_Post_1-1-2006_considerations.pdf
 
 ### Insights/Conclusion:
 #### See infographic below
