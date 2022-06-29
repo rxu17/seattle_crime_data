@@ -28,3 +28,6 @@
 
 ### Dashboard:
 #### https://app.powerbi.com/reportEmbed?reportId=a153141b-264f-460b-99ca-70cf29c2a04d&autoAuth=true&ctid=f6b6dd5b-f02f-441a-99a0-162ac5060bd2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+Snapshot Image
+<img width="1106" alt="image" src="https://user-images.githubusercontent.com/26471741/176553977-7cdfd873-a439-4512-8767-50e46acd68de.png">
+
